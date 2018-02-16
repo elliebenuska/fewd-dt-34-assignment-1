@@ -1,0 +1,44 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0px;
+}
+
+li {
+	display: inline;
+	padding: 10px;
+}
+
+body {
+	font-family: courier;
+	background: #bfd7eb;
+	padding: 50px;
+}
+
+h1 {
+	text-decoration: underline dotted;
+	font-size: 50px;
+	color: #9eb6cf;
+}
+
+h2 {
+	color: #9eb6cf;
+}
+
+h3 {
+	color: #9eb6cf;
+}
+
+p {
+	color: #393740;
+}
+
+img {
+	padding: 10px;
+}
+
+a {
+    color: #ffffff;
+}
+
+
